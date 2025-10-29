@@ -1,3 +1,7 @@
 Francisco Armneio
 Acuña Ciro Agustin
-Berdia Santiago 
+Berdia Santiago
+
+a)Se puede lograr "sincronizando el fork" (usando "sync fork").
+b)No.
+  
