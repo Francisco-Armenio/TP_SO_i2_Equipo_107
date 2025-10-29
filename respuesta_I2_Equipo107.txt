@@ -6,3 +6,12 @@ a)Se puede lograr "sincronizando el fork" (usando "sync fork").
 b)No.
 c)No, pero si BETA acepta los cambios que hizo ALFA y GAMMA usa el comando de sync fork lo lograra ver
 d)No.
+e)primero:
+	que el Beta cree un repositorio publico
+	que GAMMA y ALFA usen fork para tener un copia local
+segundo:
+	que GAMMA y ALFA usen sync fork para el punto 4, asi pueden ver el archivo creado por BETA
+tercero:
+	en el orden de las preguntas, que GAMMA modifique el archivo, use contribute
+	BETA acepte los combios atraves de pull requests y cambie el archivo
+	ALFA use sync fork para tener los cambios de ambos, y por ultimo usar contribute para subir las ultimas respuestas 	
