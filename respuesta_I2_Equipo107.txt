@@ -4,4 +4,5 @@ Berdia Santiago
 
 a)Se puede lograr "sincronizando el fork" (usando "sync fork").
 b)No.
-  
+c)No, pero si BETA acepta los cambios que hizo ALFA y GAMMA usa el comando de sync fork lo lograra ver
+d)No.
